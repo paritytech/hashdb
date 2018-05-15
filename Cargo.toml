@@ -1,8 +1,11 @@
 [package]
 name = "hashdb"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Parity Technologies <admin@parity.io>"]
 description = "trait for hash-keyed databases."
+homepage = "https://github.com/paritytech/hashdb"
+repository = "https://github.com/paritytech/hashdb"
+readme = "README.md"
 license = "GPL-3.0"
 
 [dependencies]

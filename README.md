@@ -1,6 +1,6 @@
-# keccak-hash
+# hashdb
 
-Rust bindings for the [tinykeccak C library](https://github.com/coruus/keccak-tiny) by David Leon Gil.
+Trait for hash-keyed databases.
 
-[![Build Status](https://travis-ci.org/paritytech/keccak-hash.svg?branch=master)](https://travis-ci.org/paritytech/keccak-hash)
-[![crates.io link](https://img.shields.io/crates/v/keccak-hash.svg)](https://crates.io/crates/keccak-hash)
+[![Build Status](https://travis-ci.org/paritytech/hashdb.svg?branch=master)](https://travis-ci.org/paritytech/hashdb)
+[![crates.io link](https://img.shields.io/crates/v/hashdb.svg)](https://crates.io/crates/hashdb)
